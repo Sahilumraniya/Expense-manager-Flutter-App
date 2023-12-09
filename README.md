@@ -20,10 +20,10 @@ An intuitive Expense Manager Flutter app to help you keep track of your finances
 
 ## Screenshots
 
-![Screenshot 1](screenshots/expensemanager2.jpg)
-![Screenshot 2](screenshots/expensemanager.jpg)
-![Screenshot 3](screenshots/expensemanager1.jpg)
-![Screenshot 4](screenshots/expensemanager3.jpg)
+<img src="screenshots/expensemanager2.jpg" width="120">
+<img src="screenshots/expensemanager.jpg" width="120">
+<img src="screenshots/expensemanager1.jpg" width="120">
+<img src="screenshots/expensemanager3.jpg" width="120">
 
 ## Getting Started
 
